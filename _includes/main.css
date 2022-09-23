@@ -31,8 +31,9 @@ h1 {
     letter-spacing: 0.1em;
     font-size: 3em;
     font-family: Helvetica;
-    margin: -10px 10%;
+    margin: auto;
     padding: 10px;
+    max-width: 1000px;
     background-color: rgba(0,0,0,0.5);
 }
 h3 {
