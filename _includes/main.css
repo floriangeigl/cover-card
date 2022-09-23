@@ -11,10 +11,8 @@ body {
 #fullscreen {
   top: 0;
   left: 0;
-  min-height: 100%;
-  min-width: 100%;
   width: auto;
-  height: auto;
+  height: 100%;
   display: block;
   position: fixed;
   z-index: -999;
