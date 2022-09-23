@@ -102,7 +102,7 @@ li {
     text-align: center;
     height: auto;
     width: auto;
-    background-color: none;
+    background-color: transparent;
 }
 li:hover {
     background-color: none;
