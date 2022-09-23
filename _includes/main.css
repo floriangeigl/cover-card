@@ -28,12 +28,13 @@ h1 {
     color: white;
     font-weight: normal;
     letter-spacing: 0.1em;
-    font-size: 4em;
+    font-size: 3em;
     font-family: Helvetica;
     margin: -10px 0;
 }
 h3 {
     color: white;
+    padding: 5%;
     padding-bottom: 20px;
     font-weight: bold;
 }
@@ -45,7 +46,7 @@ h3 {
 }
 ul {
     list-style: none;
-    padding: 0;
+    padding: 0px 0px 10px 0px;
     text-align: center;
 }
 li {
@@ -79,6 +80,9 @@ a {
 @media (max-width: 450px) {
 ul {
     text-align: center;
+}
+h1 {
+    font-size: 2em;
 }
 li {
     border-radius: 0%;
