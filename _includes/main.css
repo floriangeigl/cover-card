@@ -75,7 +75,7 @@ a {
     color: white;
     padding: 15px;
     text-decoration: none;
-    background-color: grey;
+    background-color: none;
 }
 .description {
     display: none;
@@ -113,6 +113,7 @@ a {
     padding: 15px;
     padding-left: 30px;
     width: 70%;
+    background-color: grey;
 }
 a:hover {
     -webkit-transition: 500ms;
